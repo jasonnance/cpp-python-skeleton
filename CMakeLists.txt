@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.12.4)
-project(c++-python-skeleton
+project(cpp-python-skeleton
   VERSION 0.0.1
   DESCRIPTION "Skeleton for a Python script calling functions from a C++ library")
 
