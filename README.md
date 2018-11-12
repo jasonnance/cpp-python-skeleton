@@ -17,6 +17,10 @@ To compile:
     cd build
     cmake ..
     make
+    
+To run the Python script that accesses the C++ lib:
+
+    python hello_world.py
  
 ## Dockerized install
 
